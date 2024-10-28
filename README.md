@@ -1,4 +1,4 @@
-# Phishing Email Detection using DistilBERT and Google Apps Script
+# Phishing Email Detection using DistilBERT-Based Model and Google Apps Script
 
 An automated phishing email detection system that combines DistilBERT's NLP capabilities with Google Apps Script automation to detect phishing attempts in real-time. The system leverages a fine-tuned DistilBERT model achieving 99.58% accuracy to analyze incoming emails and identify potential phishing threats.
 
