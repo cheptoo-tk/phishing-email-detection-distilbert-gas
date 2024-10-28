@@ -8,7 +8,7 @@ An automated phishing email detection system that combines DistilBERT's NLP capa
 
 ## Features
 
-- **High Accuracy**: Achieves 99.58% accuracy with robust metrics (F1: 99.58%, Precision: 99.58%, Recall: 99.58%)
+- **High Accuracy**: Achieves 99.58% accuracy with robust metrics (F1: 99.5798%, Precision: 99.583%, Recall: 99.58%)
 - **Real-time Detection**: Automatically analyzes incoming emails using Google Apps Script integration
 - **Multi-label Classification**: Detects both phishing emails and suspicious URLs
 - **Production-Ready**: Built on DistilBERT for efficient inference and practical deployment
@@ -18,10 +18,10 @@ An automated phishing email detection system that combines DistilBERT's NLP capa
 
 | Metric    | Score   |
 |-----------|---------|
-| Accuracy  | 99.58%  |
-| F1-score  | 99.58%  |
-| Precision | 99.58%  |
-| Recall    | 99.58%  |
+| Accuracy  | 99.58   |
+| F1-score  | 99.579  |
+| Precision | 99.583  |
+| Recall    | 99.58   |
 
 ## Quick Start
 
